@@ -14,4 +14,4 @@ var config = {
   }
 }
 
-if (window.location.hostname.includes("github")){ config.local.videos = config.tve.videos; };
+if (window.location.hostname.includes("github") || window.location.hostname.includes("0.0.0.0")){ config.local.videos = config.tve.videos; };
