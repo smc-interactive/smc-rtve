@@ -9,8 +9,8 @@ var config = {
     videos: window.location.href.replace(window.location.hash, "")+"videos/"
   },
   doc: {
-    link: 0, // 0 = off, 1 = on
-    url: "http://www.ccma.cat/tv3/documentals/xavier-cugat/"
+    link: 1, // 0 = off, 1 = on
+    url: "http://www.rtve.es/alacarta/videos/imprescindibles/imprescindibles-xavier-cugat-sexo-maracas-chihuahuas/3801124/"
   }
 }
 
